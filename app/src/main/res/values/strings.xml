@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">W4C2RTestTask</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="load">Загрузить</string>
+    <string name="uuid">uuid:</string>
+    <string name="id">id:</string>
 </resources>
